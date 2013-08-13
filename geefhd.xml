@@ -11,6 +11,5 @@
     <project path="vendor/lge/geefhd" name="android_vendor_lge_geefhd" remote="TeamLGOG" revision="cm-10.1" />
     <project path="kernel/lge/geefhd" name="android_kernel_lge_geefhd" remote="TeamLGOG" revision="cm-10.1" />
     <project path="device/lge/geefhd-common" name="android_device_lge_geefhd-common" remote="keven" revision="cm-10.1" />
-    <project path="device/lge/geefhd_att_us" name="android_device_lge_geefhd_att_us" remote="TeamLGOG" revision="cm-10.1" />
     <project path="device/lge/geefhd_hk" name="android_device_lge_geefhd_hk" remote="keven" revision="cm-10.1" />
 </manifest>
